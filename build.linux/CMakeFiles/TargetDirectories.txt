@@ -1,3 +1,0 @@
-/home/vboxuser/project/build.linux/CMakeFiles/app.dir
-/home/vboxuser/project/build.linux/CMakeFiles/edit_cache.dir
-/home/vboxuser/project/build.linux/CMakeFiles/rebuild_cache.dir
