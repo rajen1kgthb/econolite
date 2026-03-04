@@ -1,2 +1,19 @@
+# Build Directories
 build.linux/
 build.ppc/
+build.debug/
+
+# Python & Testing
+venv/
+.pytest_cache/
+*.pyc
+__pycache__/
+
+# IDE & Local Settings
+.vscode/
+.idea/
+.vimrc
+CMakeUserPresets.json
+
+# Local Utility Scripts
+SetDNSToGoogle.sh
